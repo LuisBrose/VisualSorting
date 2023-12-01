@@ -36,5 +36,5 @@ def draw(ary):
             "red",
         ],
     )
-    print(f"{'Heapsort' : >110}")
-    time.sleep(0.01)
+    print(f"{'Heapsort' : >80}")
+    time.sleep(0.03)

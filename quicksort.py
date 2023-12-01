@@ -35,5 +35,5 @@ def draw(ary):
         height=24,
         color_sequence=["yellow", "brightyellow"],
     )
-    print(f"{'Quicksort' : >110}")
-    time.sleep(0.02)
+    print(f"{'Quicksort' : >80}")
+    time.sleep(0.03)

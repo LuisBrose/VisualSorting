@@ -19,5 +19,5 @@ def draw(ary):
         height=24,
         color_sequence=["green", "brightgreen"],
     )
-    print(f"{'Insertionsort' : >110}")
-    time.sleep(0.01)
+    print(f"{'Insertionsort' : >80}")
+    time.sleep(0.03)

@@ -20,5 +20,5 @@ def draw(ary):
         height=24,
         color_sequence=["blue", "brightblue", "magenta", "cyan"],
     )
-    print(f"{'Selectionsort' : >110}")
-    time.sleep(0.01)
+    print(f"{'Selectionsort' : >80}")
+    time.sleep(0.03)

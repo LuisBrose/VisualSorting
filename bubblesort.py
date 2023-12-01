@@ -20,5 +20,5 @@ def draw(ary):
         height=24,
         color_sequence=["red", "brightred", "magenta"],
     )
-    print(f"{'Bubblesort' : >110}")
-    time.sleep(0.01)
+    print(f"{'Bubblesort' : >80}")
+    time.sleep(0.03)

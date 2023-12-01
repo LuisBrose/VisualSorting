@@ -30,4 +30,4 @@ def draw(ary):
         ],
     )
     print(f"{'Bitonicsort': >80}")
-    time.sleep(0.01)
+    time.sleep(0.03)
